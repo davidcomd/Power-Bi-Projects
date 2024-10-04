@@ -1,4 +1,4 @@
-# Power-Bi-Projects *Português*
+# Power-Bi-Projects - *Português*
 ---
 
 Bem-vindo à pasta de **Power BI Projects**. Aqui você encontrará diversos projetos desenvolvidos usando o Power BI para análise e visualização de dados. Cada subpasta contém um conjunto específico de relatórios e dashboards, com suas respectivas fontes de dados (se houver) e arquivos de modelo (.pbix).
@@ -45,7 +45,7 @@ Sinta-se à vontade para contribuir com melhorias, sugestões ou novos projetos.
 
 ---
 
-# Power BI Projects *English*
+# Power BI Projects - *English*
 
 Welcome to the **Power BI Projects** folder. Here, you will find various projects developed using Power BI for data analysis and visualization. Each subfolder contains specific reports and dashboards along with their respective data sources (if any) and .pbix model files.
 
